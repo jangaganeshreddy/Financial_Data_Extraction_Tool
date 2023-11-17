@@ -45,7 +45,8 @@ To run this tool, you need to follow these steps:
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://github.com/jangaganeshreddy/Financial_Data_Extraction_Tool/assets/79239843/d47bb068-7dd6-4a86-8d4a-44d742a84797)
 
 
 ## Check Implementation here 
+https://www.youtube.com/watch?v=MdfpzjUQauI
